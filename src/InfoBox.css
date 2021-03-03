@@ -6,23 +6,23 @@
     margin-right: 15px;
 }
 .infoBox--selected {
-    border-top: 10px solid greenyellow;
+    border-top: 10px solid rgb(25, 250, 5);
 }
 .infoBox--red {
     border-color: red;
 }
 .infoBox__cases--green {
-    color: green !important;
+    color: rgb(13, 223, 13) !important;
 }
 .infoBox__cases {
-    color: #cc1034;
+    color: #f50808;
     font-weight: 600;
     font-size: 1rem;
     margin-bottom: 0.5rem;
 }
 .infoBox__total {
-    color: #6c757d;
+    color: #242525;
     font-weight: 700 !important;
-    font-size: 0.8rem !important;
+    font-size: 0.9rem !important;
     margin-top: 15px !important;
 }
